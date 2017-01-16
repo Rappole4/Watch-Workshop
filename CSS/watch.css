@@ -1,0 +1,22 @@
+#box {
+	border:solid #fff 2px;
+	background-color:#000;
+	width:45%;
+	height:20%;
+	margin:10% 30%;
+	color:#fff;
+	text-align:center;
+	font-size:7em;
+}
+#one {
+	display:inline-block;
+	text-align:center;
+}
+#two {
+	display:inline-block;
+	text-align:center;
+}
+#three {
+	display:inline-block;
+	text-align:center;
+}
